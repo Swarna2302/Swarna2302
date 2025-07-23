@@ -6,7 +6,6 @@
 
 ## 🚀 About Me  
 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in Java, Python, MERN Stack, and Machine Learning  
-🧠 Actively working on a research paper while leveling up through certifications, projects, and continuous learning  
 💡 I enjoy creating meaningful solutions across both frontend and backend  
 📫 Let’s connect! Find my social links below ⬇️  
 
