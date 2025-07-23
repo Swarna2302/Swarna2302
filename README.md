@@ -23,9 +23,9 @@
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 </div>  
 <hr>
-**### 📫 Connect with me** 
----
 
+---
+### connect with me:
 [Email](swarna082002@gmail.com)  
 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/swarna23/))
 
