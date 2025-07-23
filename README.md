@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in Java, Python, MERN Stack, and Machine Learning  
 🧠 Actively working on a research paper while leveling up through certifications, projects, and continuous learning  
 💡 I enjoy creating meaningful solutions across both frontend and backend  
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔍 My Top Projects
+## 🔍 My Top Projects
 
 - 🎵 **Spotify Song Popularity Prediction**  
   Predicted song popularity using ML models based on tempo, energy, and danceability.  
@@ -46,14 +46,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna2302&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2302&layout=compact&theme=radical)
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/swarna23/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:swarna082002@gmail.com)
