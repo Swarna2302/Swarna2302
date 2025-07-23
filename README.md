@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 </div>  
 
 
