@@ -24,7 +24,7 @@
 </div>  
 <hr>
 
----
+
 ### 📬connect with me:
 📧[Email](swarna082002@gmail.com)  
 🔗[LinkedIn]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/swarna23/))
