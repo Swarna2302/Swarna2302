@@ -26,19 +26,20 @@
 ### 🔍 My Top Projects
 
 - 🎵 **Spotify Song Popularity Prediction**  
-  Built a machine learning model to classify Spotify tracks as "popular" or "non-popular" using audio features like tempo, energy, and danceability. Evaluated multiple ML algorithms including KNN, Random Forest, Logistic Regression, and Polynomial Regression.  
-  🔧 **Tech Stack:** 🐍 Python, 📊 scikit-learn, 🧹 Pandas, 📈 Matplotlib  
-  🌟 **Highlights:** 🎧 Real-world music data | 📊 EDA + Model Comparison | 📂 Dataset from Kaggle & UCI
+  Predicted song popularity using ML models on Spotify audio features like tempo and energy. Compared KNN, Random Forest, Logistic & Polynomial Regression.  
+  🔧 **Stack:** Python 🐍, scikit-learn 📊, Pandas 🧹, Matplotlib 📈  
+  🌟 **Highlights:** Real-world data 🎧 | EDA & model tuning 📊 | Kaggle + UCI datasets 📂
 
 - 🏦 **Smart ATM Interface System**  
-  Developed a Java-based console application that simulates real-time ATM operations — including deposits, withdrawals with limit checks, account creation, balance inquiry, and transaction logs.  
-  🔧 **Tech Stack:** ☕ Java, 🧱 OOP, 📁 File Handling  
-  🌟 **Highlights:** 💰 Realistic banking flow | 🛡️ Robust error handling | 📜 Transaction history tracking
+  Simulated real-world ATM operations — deposits, withdrawals, balance check, and logs — with robust Java OOP design.  
+  🔧 **Stack:** Java ☕, OOP 🧱, File Handling 📁  
+  🌟 **Highlights:** End-to-end banking flow 💰 | Error handling 🛡️ | Console-based UI 🖥️
 
-- 🔗 **Counterfeit Product Detection using Blockchain & QR Codes**  
-  Designed a Java-based system using blockchain-backed QR codes to verify product authenticity. Included QR code generation, secure product DB, and a clean NetBeans UI for easy scanning and validation.  
-  🔧 **Tech Stack:** ☕ Java, 🛢️ DBMS, 🔐 Blockchain, 📷 QR Code API, 🧰 NetBeans  
-  🌟 **Highlights:** 🛍️ Anti-counterfeit system | 📲 Secure QR verification | 🧪 End-to-end validation
+- 🔗 **Blockchain-based Counterfeit Detection**  
+  Verified product authenticity via blockchain-powered QR codes with a secure DB and user-friendly scanner UI.  
+  🔧 **Stack:** Java ☕, DBMS 🛢️, Blockchain 🔐, QR Code API 📷, NetBeans 🧰  
+  🌟 **Highlights:** QR verification 📲 | Secure traceability 🔒 | Real-world supply chain use case 🛍️
+
 
 
 ### 📬Connect with me:
