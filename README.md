@@ -47,13 +47,13 @@
 
 ### 📊 GitHub Stats
 
-![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna2302&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2302&layout=compact&theme=radical)
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/swarna23/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:swarna082002@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Swarna2302)
