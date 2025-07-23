@@ -1,7 +1,7 @@
 # Hello, I'm Swarnalatha 👩‍💻  
 💼 Aspiring Software Engineer | MCA (AI & DS) | Passionate about Full Stack Development & AI  
 
---
+---
 
 ### 🚀 About Me  
 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in Java, Python, MERN Stack, and Machine Learning  
