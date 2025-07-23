@@ -1,6 +1,6 @@
 <h1 align="left"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Swarnalatha </h1>
  
-###*💼 Aspiring Software Engineer | MCA (AI & DS) | Passionate about Full Stack Development & AI* 
+*💼 Aspiring Software Engineer | MCA (AI & DS) | Passionate about Full Stack Development & AI* 
 
 
 
