@@ -28,6 +28,24 @@
 📧[Email]([swarna082002@gmail.com])  
 🔗[LinkedIn]((https://www.linkedin.com/in/swarna23/))
 
+### 📌 Featured Projects
+
+- 🎵 **Spotify Song Popularity Prediction**  
+  Built a machine learning model to classify Spotify tracks as "popular" or "non-popular" using audio features like tempo, energy, and danceability. Evaluated multiple ML algorithms including KNN, Random Forest, Logistic Regression, and Polynomial Regression.  
+  **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib  
+  **Highlights:** Data sourced from Kaggle & UCI | Exploratory Data Analysis + Model Comparison
+
+- 🏦 **Smart ATM Interface System**  
+  Developed a Java-based console application that simulates real-time ATM operations — including deposits, withdrawals with limit checks, account creation, balance inquiry, and transaction logs.  
+  **Tech Stack:** Java, OOP, File Handling  
+  **Highlights:** Realistic banking flow | Robust input validation | Transaction history tracking
+
+- 🔗 **Counterfeit Product Detection using Blockchain & QR Codes**  
+  Designed a Java-based system that uses blockchain-backed QR codes to verify product authenticity. Included QR generation, secure product database, and an intuitive NetBeans-based user interface.  
+  **Tech Stack:** Java, DBMS, Blockchain, QR Code API, NetBeans  
+  **Highlights:** Anti-counterfeit system | Secure QR verification | Real-world supply chain use case
+
+
 
 
 
