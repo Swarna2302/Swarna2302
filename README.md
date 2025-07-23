@@ -1,19 +1,14 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Swarnalatha </h1>
 
 ### :woman_technologist: About Me 
-- 👩🏻‍💻 Pronouns: She/Her
-- 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [Roku](roku.com).
-- 📋 I've previously worked as a Software Engineer at [CRED](cred.club) and [Navi](navi.com).
-- 🎒 I've done almost 6-7 internships in frontend primarily.
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. 
+
+- 💼 Aspiring Software Engineer | MCA (AI & DS) | Full Stack & AI Enthusiast.
+- 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science) with a strong foundation in Java, Python, MERN Stack, and Machine Learning.
+- 💡 I’m also working on a research paper and consistently upskilling through certifications and hands-on projects.
+- 👩🏻‍🏫 I love mentoring and helping peers grow.
 - 🧭 I love exploring and working both in frontend and backend.
-- 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
-- 📺 Watch my talks on youtube:
-    - [**Podcast with Fraz** : How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
-    - [**Talk at Devfest Bangalore**: Secret Web Performance  Metric that no one would tell you](https://youtu.be/5I25RVKHHjQ?si=BmN-nMFumkmaK-aI)
-    - [**Talk at React Bangalore Meetup** : INP | The Newest Core Web Vital](https://www.youtube.com/watch?v=JSYjSHfBzPg)
-    - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
+
   
 
 ### :hammer_and_wrench: Languages and Tools 
