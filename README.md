@@ -1,51 +1,59 @@
-<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Swarnalatha </h1>
+# 👋 Hello, I'm Swarnalatha!
 
-### :woman_technologist: About Me🚀 
+💼 Aspiring Software Engineer | MCA (AI & DS)  
+🎯 Passionate about Full Stack Development, AI & Machine Learning
 
-- 💼 Aspiring **Software Engineer** | MCA (AI & DS) | Passionate about **Full Stack Development & AI**  
-- 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in **Java**, **Python**, **MERN Stack**, and **Machine Learning**  
-- 🧠 Actively working on a research paper while leveling up through **certifications**, **projects**, and continuous learning  
-- 💡 I enjoy creating meaningful solutions across both **frontend** and **backend**  
-- 📫 Let’s connect! Find my social links below ⬇️
+---
 
+## 👩‍💻 About Me
 
-  
+🎓 Pursuing Master’s in Computer Applications (AI & Data Science)  
+🧠 Researcher, problem-solver, and lifelong learner  
+💡 I love building impactful solutions across frontend, backend, and ML  
+📚 Constantly leveling up through certifications, projects, and real-world practice
 
-### :hammer_and_wrench: Languages and Tools 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-</div>  
+---
 
-### 🔍 My Top Projects
+## 🛠️ Languages & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+
+---
+
+## 🔍 My Top Projects
 
 - 🎵 **Spotify Song Popularity Prediction**  
-  Predicted song popularity using ML models on Spotify audio features like tempo and energy. Compared KNN, Random Forest, Logistic & Polynomial Regression.  
+  Predicted song popularity using ML models based on tempo, energy, and danceability.  
   🔧 **Stack:** Python 🐍, scikit-learn 📊, Pandas 🧹, Matplotlib 📈  
   🌟 **Highlights:** Real-world data 🎧 | EDA & model tuning 📊 | Kaggle + UCI datasets 📂
 
 - 🏦 **Smart ATM Interface System**  
-  Simulated real-world ATM operations — deposits, withdrawals, balance check, and logs — with robust Java OOP design.  
+  Simulated ATM operations like deposits, withdrawals, balance checks, and logs with robust Java OOP logic.  
   🔧 **Stack:** Java ☕, OOP 🧱, File Handling 📁  
-  🌟 **Highlights:** End-to-end banking flow 💰 | Error handling 🛡️ | Console-based UI 🖥️
+  🌟 **Highlights:** Full-flow simulation 💰 | Robust validation 🛡️ | Console-based UI 🖥️
 
 - 🔗 **Blockchain-based Counterfeit Detection**  
-  Verified product authenticity via blockchain-powered QR codes with a secure DB and user-friendly scanner UI.  
+  Verified products via blockchain-backed QR codes with a clean NetBeans UI.  
   🔧 **Stack:** Java ☕, DBMS 🛢️, Blockchain 🔐, QR Code API 📷, NetBeans 🧰  
-  🌟 **Highlights:** QR verification 📲 | Secure traceability 🔒 | Real-world supply chain use case 🛍️
+  🌟 **Highlights:** QR traceability 📲 | Real-time authenticity 🔒 | Supply chain relevance 🛍️
 
+---
 
+## 📊 GitHub Stats
 
-### 📬Connect with me:
-📧[Email]([swarna082002@gmail.com])  
-🔗[LinkedIn]((https://www.linkedin.com/in/swarna23/))
+![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
+---
 
+## 📬 Connect with Me
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:YOUR_EMAIL@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
