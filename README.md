@@ -1,13 +1,13 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Swarnalatha </h1>
 
-### :woman_technologist: About Me 
+### :woman_technologist: About Me🚀 
 
-- 💼 Aspiring **Software Engineer** | MCA (AI & DS) | **Full Stack & AI Enthusiast**.
-- 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science) with a strong foundation in Java, Python, MERN Stack, and Machine Learning.
-- 💡 I’m also working on a research paper and consistently upskilling through certifications and hands-on projects.
-- 👩🏻‍🏫 I love mentoring and helping peers grow.
-- 🧭 I love exploring and working both in frontend and backend.
-- 📫 How to reach me: Check social links below.
+- 💼 Aspiring **Software Engineer** | MCA (AI & DS) | Passionate about **Full Stack Development & AI**  
+- 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in **Java**, **Python**, **MERN Stack**, and **Machine Learning**  
+- 🧠 Actively working on a research paper while leveling up through **certifications**, **projects**, and continuous learning  
+- 💡 I enjoy creating meaningful solutions across both **frontend** and **backend**  
+- 📫 Let’s connect! Find my social links below ⬇️
+
 
   
 
@@ -25,9 +25,9 @@
 <hr>
 
 ---
-### connect with me:
-[Email](swarna082002@gmail.com)  
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/swarna23/))
+### 📬connect with me:
+📧[Email](swarna082002@gmail.com)  
+🔗[LinkedIn]([https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/swarna23/))
 
 
 
