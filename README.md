@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me 
 
-- 💼 Aspiring Software Engineer | MCA (AI & DS) | Full Stack & AI Enthusiast.
+- 💼 Aspiring **Software Engineer** | MCA (AI & DS) | **Full Stack & AI Enthusiast**.
 - 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science) with a strong foundation in Java, Python, MERN Stack, and Machine Learning.
 - 💡 I’m also working on a research paper and consistently upskilling through certifications and hands-on projects.
 - 👩🏻‍🏫 I love mentoring and helping peers grow.
