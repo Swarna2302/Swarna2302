@@ -55,6 +55,16 @@ Verified products via blockchain-backed QR codes with a clean NetBeans UI.
 ![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna2302&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2302&layout=compact&theme=radical)
 
+### 🌱 Currently Learning
+- Java DSA and System Design
+- MERN Stack Development
+- AI & ML Algorithms
+- Technical Writing (LaTeX, Research Paper)
+
+
+### 🏆 Achievements & Certifications
+- 🎖️ Generative AI by Google
+- ☁️ Google Cloud Career Essentials
 
 
 ## 📬 Connect with Me
