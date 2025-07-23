@@ -2,7 +2,7 @@
  
 💼 Aspiring Software Engineer | MCA (AI & DS) | Passionate about Full Stack Development & AI  
 
----
+
 
 ## 🚀 About Me  
 🎓 Currently pursuing my Master’s in Computer Applications (AI & Data Science), building a strong foundation in Java, Python, MERN Stack, and Machine Learning  
@@ -10,7 +10,7 @@
 💡 I enjoy creating meaningful solutions across both frontend and backend  
 📫 Let’s connect! Find my social links below ⬇️  
 
----
+
 
 ## 🛠️ Languages and Tools
 
@@ -25,7 +25,7 @@
   <img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 </div>  
 
----
+
 
 ## 🔍 My Top Projects
 
@@ -44,14 +44,14 @@
   🔧 **Stack:** Java ☕, DBMS 🛢️, Blockchain 🔐, QR Code API 📷, NetBeans 🧰  
   🌟 **Highlights:** QR verification 📲 | Secure traceability 🔒 | Real-world supply chain use case 🛍️
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Swarnalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarna2302&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2302&layout=compact&theme=radical)
 
----
+
 
 ## 📬 Connect with Me
 
