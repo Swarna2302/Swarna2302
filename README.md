@@ -28,21 +28,21 @@
 
 ## 🔍 My Top Projects
 
-## 🎵 **Spotify Song Popularity Prediction**  
+### 🎵 **Spotify Song Popularity Prediction**  
 Predicted song popularity using ML models based on tempo, energy, and danceability.  
 🔧 **Tech Stack:** Python 🐍, scikit-learn 📊, Pandas 🧹, Matplotlib 📈  
 🌟 **Highlights:** Real-world data | EDA & model tuning | Kaggle + UCI datasets
 
----
 
-## 🏦 **Smart ATM Interface System**  
+
+### 🏦 **Smart ATM Interface System**  
 Simulated ATM operations like deposits, withdrawals, balance checks, and logs with robust Java OOP logic.  
 🔧 **Tech Stack:** Java ☕, OOP 🧱, File Handling 📁  
 🌟 **Highlights:** End-to-end banking flow | Error handling | Console-based UI
 
----
 
-## 🔗 **Blockchain-based Counterfeit Detection**  
+
+### 🔗 **Blockchain-based Counterfeit Detection**  
 Verified products via blockchain-backed QR codes with a clean NetBeans UI.  
 🔧 **Tech Stack:** Java ☕, DBMS 🛢️, Blockchain 🔐, QR Code API 📷, NetBeans 🖥️  
 🌟 **Highlights:** QR verification | Secure traceability | Real-world supply chain use case
